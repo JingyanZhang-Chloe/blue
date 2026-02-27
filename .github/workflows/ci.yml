@@ -41,5 +41,5 @@ jobs:
       if: runner.os == 'Windows'
       uses: actions/upload-artifact@v4
       with:
-        name: blue
+        name: blue-${{matrix.config.name}}
         path: build\bin\Release\blue.exe
