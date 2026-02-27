@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule

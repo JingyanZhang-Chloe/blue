@@ -1,0 +1,14 @@
+# Target labels
+ ogg-populate
+# Source files and their labels
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/ogg-subbuild/CMakeFiles/ogg-populate-complete.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-build.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-configure.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-download.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-install.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-mkdir.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-patch.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-test.rule
+/Users/zhangjingyan/CLionProjects/blue/cmake-build-debug/_deps/ogg-subbuild/ogg-populate-prefix/src/ogg-populate-stamp/ogg-populate-update.rule
