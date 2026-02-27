@@ -36,3 +36,10 @@ jobs:
 
     - name: Build
       run: cmake --build build --config Release
+
+    - name: Upload
+      if: runner.os == 'Windows'
+      uses: actions/upload-artifact@v4
+      with:
+        name: blue.exe
+        path: bin/blue.exe
