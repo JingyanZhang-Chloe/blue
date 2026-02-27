@@ -3,6 +3,7 @@
 //
 
 #include "dialogue.hpp"
+#include <stdexcept>
 
 Dialogue::Dialogue(int const version) : current_node_index(0) {
     if (version == 0) {
